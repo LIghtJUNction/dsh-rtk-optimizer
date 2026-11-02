@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-rtk-optimizer
+      name: '@lightjunction/dsh-rtk-optimizer'
+      config: {}
